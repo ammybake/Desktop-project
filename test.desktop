@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=virt-viewer Client
+Name=Client
+Comment=This is a desktop shortcut for kvm
+Icon=/home/anonworldwide/Desktop/redhat.png
+Categories=GTK;GNOME;Utility;Accessibility;
